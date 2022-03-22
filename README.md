@@ -18,3 +18,14 @@ pip install requests
 DASH Private Key and Address Wallet Generate and Finder Crack Hack
 
 ![](https://github.com/Pymmdrza/DASH_Finder/blob/main/RichDashScreen.jpg?raw=true)
+
+----
+```
+# ================================================
+# DONATE (BTC) : 16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8
+# Website : Mmdrza.Com
+# Email : X4@mmdrza.Com
+# Dev.to/Mmdrza
+# Github.com/Pymmdrza
+# ================================================
+```
